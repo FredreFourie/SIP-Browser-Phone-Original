@@ -1,3 +1,6 @@
+**Original Source:**
+https://github.com/InnovateAsterisk/Browser-Phone
+
 # Browser Phone
 A fully featured browser based WebRTC SIP phone for Asterisk
 
